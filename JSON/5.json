@@ -1,0 +1,58 @@
+[
+    {
+        "line_number": 149,
+        "type": "bus",
+        "petrol": "gas",
+        "ticket_cost": 4.60,
+        "has_seats": true
+        
+    },
+    {
+        "line_number": 150,
+        "type": "bus",
+        "petrol": "gas",
+        "ticket_cost": 5.10,
+        "has_seats": false
+        
+    },
+    {
+        "line_number": 12,
+        "type": "tram",
+        "petrol": "gas",
+        "ticket_cost": 2,
+        "has_seats": true
+        
+    },
+    {
+        "line_number": 13,
+        "type": "tram",
+        "petrol": "electric",
+        "ticket_cost": 2,
+        "has_seats": true
+        
+    },
+    {
+        "line_number": 164,
+        "type": "bus",
+        "petrol": "gas",
+        "ticket_cost": 26.30,
+        "has_seats": true
+        
+    },
+    {
+        "line_number": 134,
+        "type": "bus",
+        "petrol": "gas",
+        "ticket_cost": 2.40,
+        "has_seats": true
+        
+    }
+
+
+
+
+
+
+
+
+]
