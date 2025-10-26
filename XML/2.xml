@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PublicTransport>
+    <Line>
+        <Number>105</Number>
+        <Type>Bus</Type>
+        <RouteLength>12.4</RouteLength>
+        <AverageDelay>3</AverageDelay>
+
+    </Line>
+
+    <Line>
+        <Number>124</Number>
+        <Type>Bus</Type>
+        <RouteLength>13</RouteLength>
+        <AverageDelay>4</AverageDelay>
+    </Line>
+
+    <Line>
+        <Number>125</Number>
+        <Type>Bus</Type>
+        <RouteLength>17.4</RouteLength>
+        <AverageDelay>4</AverageDelay>
+
+    </Line>
+
+    <Line>
+        <Number>164</Number>
+        <Type>Bus</Type>
+        <RouteLength>20</RouteLength>
+        <AverageDelay>2</AverageDelay>
+    </Line>
+
+     <Line>
+        <Number>1</Number>
+        <Type>Tram</Type>
+        <RouteLength>5</RouteLength>
+        <AverageDelay>2</AverageDelay>
+
+    </Line>
+    
+    <Line>
+        <Number>14</Number>
+        <Type>Tram</Type>
+        <RouteLength>10</RouteLength>
+        <AverageDelay>3</AverageDelay>
+    </Line>
+    
+    
+
+
+
+
+
+
+
+
+
+
+</PublicTransport>
