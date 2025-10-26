@@ -1,0 +1,23 @@
+{
+    "cheapest transport": "Tram",
+    "trams are crowded at noon": true,
+    "most expensive transport": "car",
+    "average cost of tram tickets": 3.50,
+    "worst year to drive by car in cracow": 2025,
+    "ecofriendly means of transport in cracow": {
+        "most eco friendly": "bike",
+        "also eco friendly": "electric scooter"
+    },
+    "popular routes in cracow": ["Rondo Grzegórzeckie" , "Rondo Mogilskie"],
+    "one of the best public transport in poland": true
+
+
+
+
+
+
+
+
+
+
+}z
