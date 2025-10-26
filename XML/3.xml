@@ -1,0 +1,12 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+
+<besttransport>
+    <tram brand="PKP" model="XYZ">
+        <cost type="inexpensive" number="around 2pln"></cost>
+        <speed count="50km/h" safety="high"></speed>
+        <crowd highest="At noon" lowest="At night"></crowd>
+        <capacity seats="100" standing="40"></capacity>
+    
+    </tram>
+
+</transport>
