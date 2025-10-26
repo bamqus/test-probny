@@ -24,10 +24,8 @@ fajne broom broom
 
 to tez fajne broom broom
 ![tramwaj niebieski](https://www.mpk.poznan.pl/wp-content/uploads/2025/04/Rozswietlony-wschodzacym-sloncem-niebieski-wagon.jpg)
-![tramwaj](tramwaj.jpg)
+![tramwaj](IMG1/tramwaj.jpg)
    
-
-
 # TEAM
 1. *Jane Doe*
    - GitHub account name: JaneD
